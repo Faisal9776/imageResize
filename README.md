@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 An image to be resized must be in the project directory
-The application takes any image file that has to be called horizontal.jpg to be resized. The final resized image gets stored in IMG_URL at line 783 in the file jquery.resizeimage
+The application takes any image file that has to be called horizontal.jpg to be resized. The final resized image gets stored in IMG_URL at line 783 in the file jquery.resizeimage.
 In the project directory, you can run:
 
 ### `npm start`
